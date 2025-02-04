@@ -1,0 +1,23 @@
+{
+  "name": "javascript-programming-solutions",
+  "version": "1.0.0",
+  "description": "javascript-programming-solutions is a collection of JavaScript solutions for algorithms, data structures, coding challenges, and interview problems. Optimized for readability, efficiency, and best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanagarajnn/javascript-programming-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanagarajnn/javascript-programming-solutions/issues"
+  },
+  "homepage": "https://github.com/kanagarajnn/javascript-programming-solutions#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
