@@ -5,8 +5,8 @@ javascript-programming-solutions is a collection of JavaScript solutions for alg
 
 # Sorting
 ## 1. Bubble Sort
-- [Bubble Sort Code](sorting/bubble_sort)
-- [Documentation](sorting/bubble_sort/README.md)
+- [Bubble Sort Code](sorting/bubble-sort)
+- [Documentation](sorting/bubble-sort/README.md)
 
 ## 2. Insertion Sort
 - Insertion Sort Code
